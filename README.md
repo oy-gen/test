@@ -41,4 +41,6 @@ _italic_
 
 __bold__
 
-Just a test
+## Strike
+
+~strike~ ~keyboard: option+n
