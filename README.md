@@ -38,9 +38,20 @@
 **bold/strong**
 
 _italic_
-
 __bold__
 
 ## Strike
 
 ~strike~ ~keyboard: option+n
+
+[title of the link](https://www.eugendirksen.com)
+
+
+[neuefische] [neuefische] ist toll
+
+
+
+
+Just a test
+
+[neuefische]: https://www.neuefische.de
